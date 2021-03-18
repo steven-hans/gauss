@@ -1,12 +1,9 @@
 ## Preview
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/oJ5Or8FDinE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+![Image 1](https://i.imgur.com/hC8zfTS.png)
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/zq6wmiuq3eQ" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+![Preview 1](https://www.youtube.com/embed/oJ5Or8FDinE")  
+![Preview 2](https://www.youtube.com/embed/zq6wmiuq3eQ")
 
 ## Essential
 
